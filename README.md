@@ -3,9 +3,9 @@
 This project is the source code of the paper: 
 Feng J, Teng Q, Li B, et al. An end-to-end three-dimensional reconstruction framework of porous media from a single two-dimensional image based on deep learning. Computer Methods in Applied Mechanics and Engineering, 2020, 368: 113043. https://doi.org/10.1016/j.cma.2020.113043.
 
-Authorized by Junxi Feng, 2024.
+Authorized by Dr. Junxi Feng, 2024.
 
-Pytorch Implementation of end-to-end 3D Reconstruction for 2D Porous Media Images. For example, given a 2D image, the corresponding 3D structure can be reconstructed.
+Pytorch Implementation of end-to-end 3D reconstruction framework for 2D Porous media images. For example, given a 2D image, the corresponding 3D microstructure can be reconstructed.
 
 ## Prerequisites
 - Linux or macOS
